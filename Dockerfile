@@ -1,5 +1,5 @@
 # FROM node:14.15.0-alpine3.12
-FROM ubuntu:20.04
+FROM ubuntu:18.04
 FROM node:19-alpine3.16
 
 WORKDIR /usr/src/app/
