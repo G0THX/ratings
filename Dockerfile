@@ -1,6 +1,7 @@
-FROM ubuntu:22.04
+# FROM ubuntu:22.04
 # FROM node:14.15.0-alpine3.12
-FROM node:19-alpine3.16
+# FROM node:19-alpine3.16
+FROM node:14-bullseye
 
 WORKDIR /usr/src/app/
 
